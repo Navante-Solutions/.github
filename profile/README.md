@@ -1,6 +1,19 @@
-# Navante Solutions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Navante-Solutions/.github/main/profile/logo.jpg" width="200" alt="Navante Solutions Logo"/>
+</p>
 
-**Engenharia para o futuro. Navegando a inovação.**
+<h1 align="center">Navante Solutions</h1>
+
+<p align="center">
+  <strong>Engenharia para o futuro. Navegando a inovação.</strong>
+</p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Engineering-First-blue" />
+  <img src="https://img.shields.io/badge/SaaS-Platform-0A66C2" />
+  <img src="https://img.shields.io/badge/Cloud-Native-1F8EF1" />
+</p>
 
 ---
 
